@@ -1,13 +1,12 @@
-package JavaDersi6_Degiskenler;
+package JavaDersi5_HelloWorld;
 
 public class Main {
 
 	public static void main(String[] args) {
-
-      int ogrenciSayisi = 28;
-      String mesaj = "Ogrenci Sayisi: ";
-      
-      System.out.println(mesaj + ogrenciSayisi);
+		
+		System.out.println("Hello World");
+		System.out.println(" ");
+		System.out.println("Hello Java");
 
 	}
 
